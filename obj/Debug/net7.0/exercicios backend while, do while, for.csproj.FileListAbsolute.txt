@@ -1,0 +1,15 @@
+C:\Users\45922978810\Desktop\exercicios backend while, do while, for\bin\Debug\net7.0\exercicios backend while, do while, for.exe
+C:\Users\45922978810\Desktop\exercicios backend while, do while, for\bin\Debug\net7.0\exercicios backend while, do while, for.deps.json
+C:\Users\45922978810\Desktop\exercicios backend while, do while, for\bin\Debug\net7.0\exercicios backend while, do while, for.runtimeconfig.json
+C:\Users\45922978810\Desktop\exercicios backend while, do while, for\bin\Debug\net7.0\exercicios backend while, do while, for.dll
+C:\Users\45922978810\Desktop\exercicios backend while, do while, for\bin\Debug\net7.0\exercicios backend while, do while, for.pdb
+C:\Users\45922978810\Desktop\exercicios backend while, do while, for\obj\Debug\net7.0\exercicios backend while, do while, for.csproj.AssemblyReference.cache
+C:\Users\45922978810\Desktop\exercicios backend while, do while, for\obj\Debug\net7.0\exercicios backend while, do while, for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45922978810\Desktop\exercicios backend while, do while, for\obj\Debug\net7.0\exercicios backend while, do while, for.AssemblyInfoInputs.cache
+C:\Users\45922978810\Desktop\exercicios backend while, do while, for\obj\Debug\net7.0\exercicios backend while, do while, for.AssemblyInfo.cs
+C:\Users\45922978810\Desktop\exercicios backend while, do while, for\obj\Debug\net7.0\exercicios backend while, do while, for.csproj.CoreCompileInputs.cache
+C:\Users\45922978810\Desktop\exercicios backend while, do while, for\obj\Debug\net7.0\exercicios backend while, do while, for.dll
+C:\Users\45922978810\Desktop\exercicios backend while, do while, for\obj\Debug\net7.0\refint\exercicios backend while, do while, for.dll
+C:\Users\45922978810\Desktop\exercicios backend while, do while, for\obj\Debug\net7.0\exercicios backend while, do while, for.pdb
+C:\Users\45922978810\Desktop\exercicios backend while, do while, for\obj\Debug\net7.0\exercicios backend while, do while, for.genruntimeconfig.cache
+C:\Users\45922978810\Desktop\exercicios backend while, do while, for\obj\Debug\net7.0\ref\exercicios backend while, do while, for.dll
